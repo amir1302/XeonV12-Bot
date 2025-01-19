@@ -8,9 +8,9 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 //contact details
-global.ownernomer = "916909137213"
-global.owner = ["916909137213"]
-global.ownername = "Avast"
+global.ownernomer = "17736546078"
+global.owner = ["17736546078"]
+global.ownername = "norage"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
